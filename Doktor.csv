@@ -1,0 +1,100 @@
+,Name,Location,Speciality,Locality,tag
+0,Sanjeevini Acu Healthcare,"83/160, Opp Lakshmi NarasimhaSwamy Temple, Sunkadakatte, Bangalore - 560091",Acupuncture Specialists in Bangalore,Basaveshwara Nagar,"['Acupuncture', 'Specialists']"
+1,Triangle Print Communications,"No. 1252, 10th Main, 5th Cross, Vijayanagar, Bangalore - 560040",Allergy Doctors in Bangalore,Vijayanagar,"['Allergy', 'Doctors']"
+2,Dr. Venkatanarayan Raju,"19, 1st Stage, Peenya, Bangalore - 560058",Anesthetists in Bangalore,Peenya,['Anesthetists']
+3,Dr. Shashlkant Rao,"Venkateshwara Complex, Agashettyhalli, Bangalore - 560094",Asthma Specialists in Bangalore,Agashettyhalli,"['Asthma', 'Specialists']"
+4,Ear 2 Hear Clinic,"323, Basement, 2nd Block, 2nd Cross, R M V 2nd Stage, Bangalore - 560094",Audiologists in Bangalore,R M V 2nd Stage,['Audiologists']
+5,The Benson Town Ayurvedic Clinic,"Benson Town, Bangalore - 560005",Ayurvedic Doctors in Bangalore,Benson Town,"['Ayurvedic', 'Doctors']"
+6,Total Orthocare,"Muniswami Reddy Layout, Bangalore, Banaswadi, Bangalore - 560043",Bone Specialists in Bangalore,Banaswadi,"['Bone', 'Specialists']"
+7,Dr. Vishal Rao,"HCG Cancer Center, Tower 3, 8 HCG Towers, P. Kalinga Rao Road, Sampangi Ram Nagar, Bangalore - 560078",Cancer Specialists in Bangalore,Sampangi Ram Nagar,"['Cancer', 'Specialists']"
+8,Dr. Kiron Varghese,"Cardiovision, 53, 36th Main, 3rd Cross, Dollar Scheme Layout, B.T.M. 1st Stage, Bangalore - 560068",Cardiac Surgeon in Bangalore,B.T.M. 1st Stage,"['Cardiac', 'Surgeon']"
+9,Dr. Sunil Dwivedi,"71/1, Millers Road, Bangalore - 560052",Cardiologists in Bangalore,Millers Road,['Cardiologists']
+10,Dr. Shashlkant Rao,"Venkateshwara Complex, Agashettyhalli, Bangalore - 560094",Chest Specialists in Bangalore,Agashettyhalli,"['Chest', 'Specialists']"
+11,Dr. Sanjay Rao,"Avantika Complex, Marathahalli, Bangalore - 560094",Child Specialists in Bangalore,Marathahalli,"['Child', 'Specialists']"
+12,Dr. Alice Delahaye,"Zinda Chiropractic Wellness, Durga Road, Benson Town, Bangalore - 560002",Chiropractic Doctors in Bangalore,Benson Town,"['Chiropractic', 'Doctors']"
+13,Dr. Anantheshwar Y. N,"17, 3rd Main Road, Sanjaynagar, Bangalore - 560094",Cosmetic Surgeon in Bangalore,Sanjaynagar,"['Cosmetic', 'Surgeon']"
+14,Tooth Doctor,"2nd Main Road, East of NGEF Layout, Kasthuri Nagar, Bangalore - 560043",Dentists in Bangalore,Kasthuri Nagar,['Dentists']
+15,Neo Follicle Transplant,"Opposite Innovative Multiplex, Marathahalli, Bangalore - 560037",Dermatologists in Bangalore,Marathahalli,['Dermatologists']
+16,M.V. Centre For Diabetes,"NO.365, Sulochana Building, 1st Cross Road, Sarjapura Main Road, Bangalore - 560034",Diabetologists in Bangalore,Sarjapura Main Road,['Diabetologists']
+17,Swasthya Nutrition,"2nd Floor, Prema Paradise, AECS Layout - D Block, 60 Feet Road, Bangalore - 560037",Dieticians in Bangalore,60 Feet Road,['Dieticians']
+18,Sanjeevini Acu Healthcare,"83/160, Opp Lakshmi NarasimhaSwamy Temple, Sunkadakatte, Bangalore - 560091",Doctors Acupuncture And Acupressure in Bangalore,Sunkadakatte,"['Doctors', 'Acupuncture']"
+19,Triangle Print Communications,"No. 1252, 10th Main, 5th Cross, Vijayanagar, Bangalore - 560040",Doctors Allergic in Bangalore,Vijayanagar,"['Doctors', 'Allergic']"
+20,Dr. Venkatanarayan Raju,"19, 1st Stage, Peenya, Bangalore - 560058",Doctors Anesthetists in Bangalore,Peenya,"['Doctors', 'Anesthetists']"
+21,Ear 2 Hear Clinic,"323, Basement, 2nd Block, 2nd Cross, R M V 2nd Stage, Bangalore - 560094",Doctors Audiologist in Bangalore,R M V 2nd Stage,"['Doctors', 'Audiologist']"
+22,The Benson Town Ayurvedic Clinic,"Benson Town, Bangalore - 560005",Doctors Ayurvedic in Bangalore,Benson Town,"['Doctors', 'Ayurvedic']"
+23,Total Orthocare,"Muniswami Reddy Layout, Bangalore, Banaswadi, Bangalore - 560043",Doctors Bone Specialists in Bangalore,Banaswadi,"['Doctors', 'Bone']"
+24,Dr. Vishal Rao,"HCG Cancer Center, Tower 3, 8 HCG Towers, P. Kalinga Rao Road, Sampangi Ram Nagar, Bangalore - 560078",Doctors Cancer Specialists in Bangalore,Sampangi Ram Nagar,"['Doctors', 'Cancer']"
+25,Dr. Kiron Varghese,"Cardiovision, 53, 36th Main, 3rd Cross, Dollar Scheme Layout, B.T.M. 1st Stage, Bangalore - 560068",Doctors Cardiac Surgeon in Bangalore,B.T.M. 1st Stage,"['Doctors', 'Cardiac']"
+26,Dr. Sunil Dwivedi,"71/1, Millers Road, Bangalore - 560052",Doctors Cardiologists in Bangalore,Millers Road,"['Doctors', 'Cardiologists']"
+27,Dr. Shashlkant Rao,"Venkateshwara Complex, Agashettyhalli, Bangalore - 560094",Doctors Chest Specialists in Bangalore,Agashettyhalli,"['Doctors', 'Chest']"
+28,Dr. Sanjay Rao,"Avantika Complex, Marathahalli, Bangalore - 560094",Doctors Child Specialists in Bangalore,Marathahalli,"['Doctors', 'Child']"
+29,Dr. Alice Delahaye,"Zinda Chiropractic Wellness, Durga Road, Benson Town, Bangalore - 560002",Doctors Chiropractic in Bangalore,Benson Town,"['Doctors', 'Chiropractic']"
+30,Dr. B Ratnam,"16, 16th Cross, CMH Road, Lakshmipuram, Bangalore - 560008",Doctors Consulting Physicians in Bangalore,Lakshmipuram,"['Doctors', 'Consulting']"
+31,Dr. Anantheshwar Y. N,"17, 3rd Main Road, Sanjaynagar, Bangalore - 560094",Doctors Cosmetic Surgeons in Bangalore,Sanjaynagar,"['Doctors', 'Cosmetic']"
+32,Tooth Doctor,"2nd Main Road, East of NGEF Layout, Kasthuri Nagar, Bangalore - 560043",Doctors Dentists in Bangalore,Kasthuri Nagar,"['Doctors', 'Dentists']"
+33,Neo Follicle Transplant,"Opposite Innovative Multiplex, Marathahalli, Bangalore - 560037",Doctors Dermatologists in Bangalore,Marathahalli,"['Doctors', 'Dermatologists']"
+34,M.V. Centre For Diabetes,"NO.365, Sulochana Building, 1st Cross Road, Sarjapura Main Road, Bangalore - 560034",Doctors Diabetologists in Bangalore,Sarjapura Main Road,"['Doctors', 'Diabetologists']"
+35,Swasthya Nutrition,"2nd Floor, Prema Paradise, AECS Layout - D Block, 60 Feet Road, Bangalore - 560037",Doctors Dieticians in Bangalore,60 Feet Road,"['Doctors', 'Dieticians']"
+36,Dr. Hari Ram,"KHB Block Koramangala, 5th Block, Koramangala, Bangalore - 560095",Doctors ENT in Bangalore,Koramangala,"['Doctors', 'ENT']"
+37,Dr. R. K. Eye Clinic,"Building No. 20/25, Bhargav Towers, Dinnur Main Road, Ganga Nagar, Bangalore - 560032",Doctors Eye Specialists in Bangalore,Ganga Nagar,"['Doctors', 'Eye']"
+38,Dr. Ashwinikumar D. Kudari,"13th Main Road, Gokula Extension, Mathikere, Bangalore - 560054",Doctors Gastroenterologists in Bangalore,Mathikere,"['Doctors', 'Gastroenterologists']"
+39,Dr. B Ratnam,"16, 16th Cross, CMH Road, Lakshmipuram, Bangalore - 560008",Doctors General Physicians in Bangalore,Lakshmipuram,"['Doctors', 'General']"
+40,Dr. Adarsh M Patil,"105, Vishnu, 5th Cross, Rustumbagh, Bangalore - 560017",Doctors General Surgeons in Bangalore,Rustumbagh,"['Doctors', 'General']"
+41,Dr. Reshu Saraogi,"Mannath Fertility Clinic, Kishan Icon 90/2, 2nd Floor, Outer Ring Road, Marathahalli, Bangalore - 560037",Doctors Gynaecologists in Bangalore,Marathahalli,"['Doctors', 'Gynaecologists']"
+42,Dr. Sunil Dwivedi,"71/1, Millers Road, Bangalore - 560052",Doctors Heart Specialists in Bangalore,Millers Road,"['Doctors', 'Heart']"
+43,Homeocare International- HSR Layout,"437, 12th Cross, Near Cafe Coffee Day, 27th Main, Sector-1, HSR Layout, Bangalore - 560102",Doctors Homeopathic in Bangalore,HSR Layout,"['Doctors', 'Homeopathic']"
+44,Dr. Sudarshan Ballal Hebri,"17, Lavelle Road, Bangalore - 560001",Doctors Kidney Specialists in Bangalore,Lavelle Road,"['Doctors', 'Kidney']"
+45,Dr. Saurabh Misra,"The Clinic Sure, 381, 7th Cross Road, Mico Layout, BTM Layout, 2nd Stage, Bangalore - 560076",Doctors Laproscopy Surgeons in Bangalore,2nd Stage,"['Doctors', 'Laproscopy']"
+46,Dr. Sudarshan Ballal Hebri,"17, Lavelle Road, Bangalore - 560001",Doctors Nephrologists in Bangalore,Lavelle Road,"['Doctors', 'Nephrologists']"
+47,Dr. Agadi J. B.,"No. 63, 10th A Cross, 2nd Main, WOC Road, Bangalore - 560086",Doctors Neurologists in Bangalore,WOC Road,"['Doctors', 'Neurologists']"
+48,Dr. Vishal Rao,"HCG Cancer Center, Tower 3, 8 HCG Towers, P. Kalinga Rao Road, Sampangi Ram Nagar, Bangalore - 560078",Doctors Oncologists in Bangalore,Sampangi Ram Nagar,"['Doctors', 'Oncologists']"
+49,Dr. R. K. Eye Clinic,"Building No. 20/25, Bhargav Towers, Dinnur Main Road, Ganga Nagar, Bangalore - 560032",Doctors Ophthalmologists in Bangalore,Ganga Nagar,"['Doctors', 'Ophthalmologists']"
+50,Total Orthocare,"Muniswami Reddy Layout, Bangalore, Banaswadi, Bangalore - 560043",Doctors Orthopaedic in Bangalore,Banaswadi,"['Doctors', 'Orthopaedic']"
+51,Dr. Sanjay Rao,"Avantika Complex, Marathahalli, Bangalore - 560094",Doctors Pediatrics in Bangalore,Marathahalli,"['Doctors', 'Pediatrics']"
+52,Astra Physiotherapy Centre,"21/7, Vasanthapura Main Road, Konanakunte Cross, Bangalore - 560062",Doctors Physiotherapists in Bangalore,Konanakunte Cross,"['Doctors', 'Physiotherapists']"
+53,Dr. Anantheshwar Y. N,"17, 3rd Main Road, Sanjaynagar, Bangalore - 560094",Doctors Plastic Surgeon in Bangalore,Sanjaynagar,"['Doctors', 'Plastic']"
+54,Dr. Ravi Prakash,"1 , Thanushree Complex, 16th Cross, Tank Bund Road, Brindavan Nagar, Bangalore - 560054",Doctors Psychiatrists in Bangalore,Brindavan Nagar,"['Doctors', 'Psychiatrists']"
+55,Dr. Shashlkant Rao,"Venkateshwara Complex, Agashettyhalli, Bangalore - 560094",Doctors Pulmonologists in Bangalore,Agashettyhalli,"['Doctors', 'Pulmonologists']"
+56,Dr. Sharath Kumar Shetty,"No. 1304, B. B. Road, Yelahanka, Bangalore - 560064",Doctors Radiologists in Bangalore,Yelahanka,"['Doctors', 'Radiologists']"
+57,Dr. Gynaec And Surgical Clinic,"No 464, 1st Floor, Next Pavithra Paradise, 3rd Block, 3rd Stage, Havanur Cirle, Basaveshwara Nagar, Bangalore - 560079",Doctors Sexologists in Bangalore,Basaveshwara Nagar,"['Doctors', 'Sexologists']"
+58,Dr. A. Krishna,"54, KR Road, Commercial Street, Bangalore - 560002",Doctors Siddha in Bangalore,Commercial Street,"['Doctors', 'Siddha']"
+59,Neo Follicle Transplant,"Opposite Innovative Multiplex, Marathahalli, Bangalore - 560037",Doctors Skin Specialists in Bangalore,Marathahalli,"['Doctors', 'Skin']"
+60,Dr. Adarsh M Patil,"105, Vishnu, 5th Cross, Rustumbagh, Bangalore - 560017",Doctors Surgeons in Bangalore,Rustumbagh,"['Doctors', 'Surgeons']"
+61,Dr. Shahid Shamsher Reviews,"Avantika Complex, Marathahalli, Bangalore - 560094",Doctors Trichologists in Bangalore,Marathahalli,"['Doctors', 'Trichologists']"
+62,Dr. Mahendra Jain,"206, 10th Main, 1st Block, Jaya Nagar, Bangalore - 560052",Doctors Urologists in Bangalore,Jaya Nagar,"['Doctors', 'Urologists']"
+63,Dr. Gynaec And Surgical Clinic,"No 464, 1st Floor, Next Pavithra Paradise, 3rd Block, 3rd Stage, Havanur Cirle, Basaveshwara Nagar, Bangalore - 560079",Doctors Venereologists in Bangalore,Basaveshwara Nagar,"['Doctors', 'Venereologists']"
+64,Dr. Venugopal K. V,"No. 9, 1st B Main Road, R.T. Nagar, Bangalore - 560032",Doctors Veterinary in Bangalore,R.T. Nagar,"['Doctors', 'Veterinary']"
+65,Dr. Narayana Hrudayalaya Super Specialty Clinic,"43/AB, BDA COmplex, 1st Floor, HSR Layout, Bangalore - 560034",Doctors Hematologists in Bangalore,HSR Layout,"['Doctors', 'Hematologists']"
+66,Dr. Hari Ram,"KHB Block Koramangala, 5th Block, Koramangala, Bangalore - 560095",ENT Doctors in Bangalore,Koramangala,"['ENT', 'Doctors']"
+67,Dr. R. K. Eye Clinic,"Building No. 20/25, Bhargav Towers, Dinnur Main Road, Ganga Nagar, Bangalore - 560032",Eye Specialists in Bangalore,Ganga Nagar,"['Eye', 'Specialists']"
+68,Dr. Ashwinikumar D. Kudari,"13th Main Road, Gokula Extension, Mathikere, Bangalore - 560054",Gastroenterologists in Bangalore,Mathikere,['Gastroenterologists']
+69,Dr. B Ratnam,"16, 16th Cross, CMH Road, Lakshmipuram, Bangalore - 560008",General Physicians in Bangalore,Lakshmipuram,"['General', 'Physicians']"
+70,Dr. Adarsh M Patil,"105, Vishnu, 5th Cross, Rustumbagh, Bangalore - 560017",General Surgeons in Bangalore,Rustumbagh,"['General', 'Surgeons']"
+71,Dr. Narayana Hrudayalaya Super Specialty Clinic,"43/AB, BDA COmplex, 1st Floor, HSR Layout, Bangalore - 560034",Haematologists in Bangalore,HSR Layout,['Haematologists']
+72,Dr. Sunil Dwivedi,"71/1, Millers Road, Bangalore - 560052",Heart Specialists in Bangalore,Millers Road,"['Heart', 'Specialists']"
+73,Homeocare International- HSR Layout,"437, 12th Cross, Near Cafe Coffee Day, 27th Main, Sector-1, HSR Layout, Bangalore - 560102",Homeopathy Doctors in Bangalore,HSR Layout,"['Homeopathy', 'Doctors']"
+74,Cambridge Hospital,"Avantika Complex, Marathahalli, Bangalore - 560094",Infertility Specialists in Bangalore,Marathahalli,"['Infertility', 'Specialists']"
+75,Dr. Saurabh Misra,"The Clinic Sure, 381, 7th Cross Road, Mico Layout, BTM Layout, 2nd Stage, Bangalore - 560076",Laproscopic Surgeon in Bangalore,2nd Stage,"['Laproscopic', 'Surgeon']"
+76,Dr. Sudarshan Ballal Hebri,"17, Lavelle Road, Bangalore - 560001",Nephrologists in Bangalore,Lavelle Road,['Nephrologists']
+77,Dr. Agadi J. B.,"No. 63, 10th A Cross, 2nd Main, WOC Road, Bangalore - 560086",Neuro Surgeon Neurologists in Bangalore,WOC Road,"['Neuro', 'Surgeon']"
+78,Dr. Reshu Saraogi,"Mannath Fertility Clinic, Kishan Icon 90/2, 2nd Floor, Outer Ring Road, Marathahalli, Bangalore - 560037",Obstetricians in Bangalore,Marathahalli,['Obstetricians']
+79,Dr. R. K. Eye Clinic,"Building No. 20/25, Bhargav Towers, Dinnur Main Road, Ganga Nagar, Bangalore - 560032",Ophthalmologists in Bangalore,Ganga Nagar,['Ophthalmologists']
+80,Total Orthocare,"Muniswami Reddy Layout, Bangalore, Banaswadi, Bangalore - 560043",Orthopaedics Doctors in Bangalore,Banaswadi,"['Orthopaedics', 'Doctors']"
+81,Dr. Sanjay Rao,"Avantika Complex, Marathahalli, Bangalore - 560094",Paediatricians in Bangalore,Marathahalli,['Paediatricians']
+82,Dr. Sanjay Rao,"Avantika Complex, Marathahalli, Bangalore - 560094",Peadiatricians in Bangalore,Marathahalli,['Peadiatricians']
+83,Dr. ShivaKeerthi Reddy,"Avantika Complex, Marathahalli, Bangalore - 560094",Pedodontists in Bangalore,Marathahalli,['Pedodontists']
+84,Dr. Supriya Ebenezer,"Dental Den, 1st Floor, Hennur, Bangalore - 560043",Periodontists in Bangalore,Hennur,['Periodontists']
+85,Astra Physiotherapy Centre,"21/7, Vasanthapura Main Road, Konanakunte Cross, Bangalore - 560062",Physiotherapists in Bangalore,Konanakunte Cross,['Physiotherapists']
+86,Dr. Anantheshwar Y. N,"17, 3rd Main Road, Sanjaynagar, Bangalore - 560094",Plastic Surgeons in Bangalore,Sanjaynagar,"['Plastic', 'Surgeons']"
+87,Dr. Alice Delahaye,"Zinda Chiropractic Wellness, Durga Road, Benson Town, Bangalore - 560002",Practitioners Chiropractic in Bangalore,Benson Town,"['Practitioners', 'Chiropractic']"
+88,Dr. Ravi Prakash,"1 , Thanushree Complex, 16th Cross, Tank Bund Road, Brindavan Nagar, Bangalore - 560054",Psychiatrists in Bangalore,Brindavan Nagar,['Psychiatrists']
+89,Dr. Shashlkant Rao,"Venkateshwara Complex, Agashettyhalli, Bangalore - 560094",Pulmonologists in Bangalore,Agashettyhalli,['Pulmonologists']
+90,Dr. Sharath Kumar Shetty,"No. 1304, B. B. Road, Yelahanka, Bangalore - 560064",Radiologists in Bangalore,Yelahanka,['Radiologists']
+91,Dragon Astrology,"No.A206, Spartacus Apartments, 30th Cross, Jayanagar 4th T Block, Bangalore - 560041",Reiki Consultants in Bangalore,Jayanagar 4th T Block,"['Reiki', 'Consultants']"
+92,Dr. Gynaec And Surgical Clinic,"No 464, 1st Floor, Next Pavithra Paradise, 3rd Block, 3rd Stage, Havanur Cirle, Basaveshwara Nagar, Bangalore - 560079",Sexologists in Bangalore,Basaveshwara Nagar,['Sexologists']
+93,Neo Follicle Transplant,"Opposite Innovative Multiplex, Marathahalli, Bangalore - 560037",Skin Specialists in Bangalore,Marathahalli,"['Skin', 'Specialists']"
+94,Dr. Rajasekara Reddy H. V,"319/A, Chest Specialist Clinic, 1st Cross, 1st Block, KHB Colony, Koramangala, Bangalore - 560034",Thoracic Surgeons in Bangalore,Koramangala,"['Thoracic', 'Surgeons']"
+95,Dr. Shahid Shamsher Reviews,"1001, Dr Health Trichology Clinic, 12th A Main, HAL 2nd Stage, Indiranagar, Bangalore - 560038",Trichologists in Bangalore,Indiranagar,['Trichologists']
+96,Dr. Mahendra Jain,"206, 10th Main, 1st Block, Jaya Nagar, Bangalore - 560052",Urologists in Bangalore,Jaya Nagar,['Urologists']
+97,Dr. Gynaec And Surgical Clinic,"No 464, 1st Floor, Next Pavithra Paradise, 3rd Block, 3rd Stage, Havanur Cirle, Basaveshwara Nagar, Bangalore - 560079",Venereologists in Bangalore,Basaveshwara Nagar,['Venereologists']
+98,Dr. Venugopal K. V,"No. 9, 1st B Main Road, R.T. Nagar, Bangalore - 560032",Veterinary Doctors in Bangalore,Basaveshwara Nagar,Veterinary Doctors in Bangalore
